@@ -6,7 +6,7 @@ Welcome to this full-stack Wistia Video Player project. I've designed this app t
 
 ### In a Rush? 🚀
 
-No problem! If you’re just looking for a high-level overview and don’t want to get bogged down in details, check out our [Fast Read](./docs/FAST_README.md) for a quick summary.
+No problem! If you’re just looking for a high-level overview and don’t want to get bogged down in details, check out our [Fast Read](./docs/readmes/FAST_README.md) for a quick summary.
 
 ### Want to watch a video demo? 📺
 
@@ -62,9 +62,9 @@ Here’s a quick glance at what makes this project tick:
 
 ## Getting Started 💻
 
-If you're itching to dive right in, head over to our [Getting Started Guide](./docs/getting-started/README.md). It'll walk you through the setup step-by-step.
+If you're itching to dive right in, head over to our [Getting Started Guide](./docs/readmes/getting-started/README.md). It'll walk you through the setup step-by-step.
 
-For more detailed installation instructions (e.g., local dev setup, environment variables, etc.), check out the full [Installation Guide](./docs/getting-started/installation.md).
+For more detailed installation instructions (e.g., local dev setup, environment variables, etc.), check out the full [Installation Guide](./docs/readmes/getting-started/installation.md).
 
 ---
 
@@ -72,10 +72,10 @@ For more detailed installation instructions (e.g., local dev setup, environment 
 
 This README is just scratching the surface! We’ve got more in-depth docs on **architecture**, **features**, and **testing** if you’re looking for specifics:
 
-- [**Architecture Overview**](./docs/architecture/README.md)
-- [**Key Features**](./docs/features/README.md)
-- [**Production Readiness**](./docs/production-readiness/README.md)
-- [**Testing Strategy**](./docs/testing/README.md)
+- [**Architecture Overview**](./docs/readmes/architecture/README.md)
+- [**Key Features**](./docs/readmes/features/README.md)
+- [**Production Readiness**](./docs/readmes/production-readiness/README.md)
+- [**Testing Strategy**](./docs/readmes/testing/README.md)
 
 ---
 
@@ -83,7 +83,7 @@ This README is just scratching the surface! We’ve got more in-depth docs on **
 
 At the core, this app is all about making video management easier. Whether you’re a content creator managing your video library, or an engineer maintaining an app that integrates with an external video API, we’ve built a solution that’s scalable and friendly to use—because let’s face it, no one likes clunky video tools.
 
-**Plus, we’ve learned a lot along the way!** Check out our [Lessons Learned](./docs/lessons-learned/README.md) for insights into what I got right—and what I could improve next time.
+**Plus, we’ve learned a lot along the way!** Check out our [Lessons Learned](./docs/readmes/lessons-learned/README.md) for insights into what I got right—and what I could improve next time.
 
 ---
 
@@ -100,12 +100,12 @@ We’re pretty sure you might have a few questions! Here are some common ones:
    - Since we’re fetching video playlists from an external service (Wistia), we wanted to minimize load times by caching the data in Redis. This way, the app stays snappy, even under load.
 
 3. **What would it take to make this production-ready?**
-   - Head over to our [Production Readiness](./docs/production-readiness/README.md) section for a deeper dive on things like scaling, security, and CI/CD.
+   - Head over to our [Production Readiness](./docs/readmes/production-readiness/README.md) section for a deeper dive on things like scaling, security, and CI/CD.
 
 ---
 
 ## Final Thoughts ✨
 
-I hope this project is as fun for you to explore as it was for me to build. Don’t forget to check out the [Fast Read](./docs/FAST_README.md) if you're in a hurry.
+I hope this project is as fun for you to explore as it was for me to build. Don’t forget to check out the [Fast Read](./docs/readmes/FAST_README.md) if you're in a hurry.
 
 ---
